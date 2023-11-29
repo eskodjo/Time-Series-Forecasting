@@ -1,3 +1,5 @@
+# Calculates and dispalys Standard Deviation, Mean, Sharpe Ratio. It also displays the chart
+
 import yfinance as yf
 import numpy as np
 import streamlit as st

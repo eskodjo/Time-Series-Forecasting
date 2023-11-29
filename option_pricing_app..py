@@ -1,3 +1,5 @@
+# model to price options using  Black-Scholes formula in python and streamlit
+
 import streamlit as st
 import numpy as np
 from scipy.stats import norm
